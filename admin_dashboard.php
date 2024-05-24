@@ -5,6 +5,7 @@ include ('connection.php');
 
 <!DOCTYPE html>
 <html>
+  
 <head>
   <title>Online Course Management</title>
   <meta charset="utf-8">
