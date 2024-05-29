@@ -36,8 +36,8 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`username`, `password`) VALUES
 ('admin', 'admin'),
-('swathika','swathi'),
-('krithiika','krithi');
+('Harshith','harshith'),
+('krithik','krithi');
 
 -- --------------------------------------------------------
 
@@ -103,7 +103,7 @@ CREATE TABLE `faculty` (
 --
 
 INSERT INTO `faculty` (`f_id`, `name`, `designation`, `password`,`contact`) VALUES
-(111, 'Neha', 'Lecturer', 'neha','9090898787'),
+(111, 'HDM', 'Lecturer', 'HDM','9090898787'),
 (112, 'Xyz', 'Lecturer', 'xyz','9090898787'),
 (113, 'Sham', 'Lecturer', 'sham','9090898787');
 
